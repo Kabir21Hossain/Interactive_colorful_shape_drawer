@@ -23,8 +23,8 @@ canvas{
     cursor:crosshair;
     border-radius:12px;
     box-shadow:0 0 30px rgba(120,100,255,0.25);
-    width:95%;
-    height:60%;
+    max-width:95vw;
+    max-height:70vh;
     max-height: 600px;
 
 }
